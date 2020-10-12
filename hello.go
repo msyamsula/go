@@ -1,10 +1,14 @@
 // if you need main function the package shoud be named "main"
+// other than main package will translate into usable module not runnable module
 package main
 
+import (
+	"fmt"
+)
+
 // import statements
-import "fmt"
 
 // "main function"
-func main() {
+func hello() {
 	fmt.Println("Hi there!")
 }
