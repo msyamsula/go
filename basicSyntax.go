@@ -7,7 +7,7 @@ func newCard() string {
 	return "Ace of Spades"
 }
 
-func main() {
+func main2() {
 	// variable declaration
 	// colon (:) is used for initialization
 	// var card string = "Ace of Spades" // explicit variable declaration

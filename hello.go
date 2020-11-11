@@ -9,6 +9,6 @@ import (
 // import statements
 
 // "main function"
-func hello() {
+func main() {
 	fmt.Println("Hi there!")
 }
